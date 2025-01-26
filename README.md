@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# react-router-example
+This React project features a multi-page website with Home, About, Contact, and a GitHub Profile page. It uses React Router for smooth navigation and the GitHub API to fetch and display repositories and followers, showcasing practical API integration and structured web application development.
+>>>>>>> 10f6b9195ba5af97364a6ad90bf2f37bd8f7af86
